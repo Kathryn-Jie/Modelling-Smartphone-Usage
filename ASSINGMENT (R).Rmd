@@ -4,7 +4,6 @@ author: "Group H"
 date: "11/28/2019"
 output:
   word_document: default
-  html_document: default
 ---
 
 ```{r}
